@@ -1,0 +1,1 @@
+A simple chat application that allows multiple devices on the same Local Area Network (LAN) to communicate in real-time. This project demonstrates the fundamentals of network sockets, client-server communication, and multi-threading.
